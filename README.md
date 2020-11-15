@@ -8,3 +8,10 @@ The dashboard uses the human resource data from sources like Microsoft Excel, an
 2. PROFIT & LOSS DASHBOARD :
 Financial report updated in real time connected to the company (ERP).We can compare them with the different ones updated monthly, quarterly, semi-annually and annually.
 (Attached Image For Reference)
+
+
+3. HEART DISEASE ANALYSIS :
+The Dashboard shows the Heart Disease Analysis wrt Male and Female showing analysis.
+
+4. OVERALLTICKET ANALYSIS :
+The Dashboard shows the ticket analysis.
